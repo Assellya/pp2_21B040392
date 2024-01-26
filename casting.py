@@ -1,3 +1,4 @@
 git rm
 n
+b
 
