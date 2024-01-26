@@ -1,4 +1,1 @@
-git rm
-n
-b
-
+git rm —cached -r casting.py
